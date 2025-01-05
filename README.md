@@ -13,6 +13,9 @@ This repository contains resources and examples to help you master JavaScript, f
 - [Loops](#loops)
 - [Objects](#objects)
 - [ES6 Features](#es6-features)
+- [Best Practices](#best-practices)
+- [Conclusion](#conclusion)
+- [Additional Resources](#additional-resources)
 ## Content Colors
 
 To make the content visually appealing, you can use different colors for different sections. Here are some examples:
