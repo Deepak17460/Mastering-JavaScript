@@ -24,12 +24,11 @@ To make the content visually appealing, you can use different colors for differe
 
 You can use HTML tags within your markdown to apply these colors. For example:
 
-```markdown
+
 <span style="color: yellow;">This is a yellow text.</span>
 <span style="color: red;">This is a red text.</span>
 <span style="color: green;">This is a green text.</span>
 <span style="color: blue;">This is a blue text.</span>
-```
 
 Note: The use of HTML tags in markdown might not be supported in all markdown viewers.
 
