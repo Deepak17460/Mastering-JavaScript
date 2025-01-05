@@ -18,22 +18,10 @@ This repository contains resources and examples to help you master JavaScript, f
 - [Additional Resources](#additional-resources)
 ## Content Colors
 
-To make the content visually appealing, you can use different colors for different sections. Here are some examples:
-
 - **Yellow**: Use for highlighting important notes or warnings.
 - **Red**: Use for errors or critical information.
 - **Green**: Use for success messages or confirmations.
 - **Blue**: Use for informational content or tips.
-
-You can use HTML tags within your markdown to apply these colors. For example:
-
-
-<span style="color: yellow;">This is a yellow text.</span>
-<span style="color: red;">This is a red text.</span>
-<span style="color: green;">This is a green text.</span>
-<span style="color: blue;">This is a blue text.</span>
-
-Note: The use of HTML tags in markdown might not be supported in all markdown viewers.
 
 ## Introduction
 
